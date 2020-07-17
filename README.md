@@ -1,4 +1,4 @@
-# FoundryModuleIntermediateGuide
+# Foundry Module Intermediate Guide
 
 Document | Topic
 ------------ | -------------
