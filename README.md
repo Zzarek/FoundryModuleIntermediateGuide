@@ -2,7 +2,6 @@
 
 Document | Topic
 ------------ | -------------
-[Accessibility](Documentation/Accessibility.md) | Visual Impairment and Language
 [Debugging](Documentation/Debugging.md) | Setting up your debugging enviornment
 [CSSPreprocessors](Documentation/Debugging.md) | UI Assistance
 [CommunityTools](Documentation/CommunityTools.md) | Tools Specificly by and for Foundry Module Developers
