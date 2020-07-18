@@ -12,7 +12,9 @@
 
 ## VSCODE
 
-## Notpad
+## PHPStorm
+
+## Notepad++
 
 
 # CLI
