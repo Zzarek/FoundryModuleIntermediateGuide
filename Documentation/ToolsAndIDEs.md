@@ -19,7 +19,6 @@ List of Extensions used in the Foundry Community
 - [Indenticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator): Virtually HighlightsCurrent indention line
 - [Markdown Shortcuts](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts): Productivity Enhancer for writing Markdown
 - [Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Enforces Standards in Markdown
-- [Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Enforces Standards in Markdown
 - [Open Window Tab Context](https://marketplace.visualstudio.com/items?itemName=takkaO.open-window-tab-context): Adds a right click menu option to open tab in anew window
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense): Adds file path intellisense
 - [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets): Makes each corresponding pair of brackets share a unique color for readability
