@@ -6,9 +6,11 @@ After a light poll the three most commonly used development enviornments by Foun
 
 **Cost** Free
 
-**Descriotion**
-
 ### Pros
+
+- Lightweight but complete IDE with intellisense and other possibilities
+- Well Supported with large community of users AND Most common IDE in Foundry dev community
+- Very extensible, with large library of features to customize the enviornment to your preferences
 
 ### Extensions
 List of Extensions used in the Foundry Community
@@ -38,6 +40,9 @@ List of Extensions used in the Foundry Community
 **Cost**: Free with Open Source subscription, $59 Annual otherwise
 
 ### Pros
+
+- All-in-One IDE that has everything it needs for coding, deploying, code repository integration, etc.
+- Everything you need comes out of the box, no extensions required, thoughh if really needed plugins are still available
 
 ### Helpful Links
 
