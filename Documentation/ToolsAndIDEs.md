@@ -30,7 +30,7 @@ List of Extensions used in the Foundry Community
 
 ### Helpful Links
 
-- Setup Video [How to Debug FoundryVTT with VCCode](https://www.youtube.com/watch?v=CQ5UiDud60o)
+- Setup Video [How to Debug FoundryVTT with VSCode](https://www.youtube.com/watch?v=CQ5UiDud60o)
 
 
 ## Jetbrains (Webstorm, Intellij IDEA, etc)
