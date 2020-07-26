@@ -6,11 +6,31 @@ After a light poll the three most commonly used development enviornments by Foun
 
 **Cost** Free
 
+**Descriotion**
+
 ### Pros
 
-### Additional Resources
+### Extensions
+List of Extensions used in the Foundry Community
+
+- [Hex Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight): Visualizes the color of hexcode colors
+- [ESLint Extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint): Adds Eslint Extension for helping find code errors
+- [Github Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview): Extension Bundle that makes VSCode rendering of markdown mirror that of github
+- [Indenticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator): Virtually HighlightsCurrent indention line
+- [Markdown Shortcuts](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts): Productivity Enhancer for writing Markdown
+- [Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Enforces Standards in Markdown
+- [Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Enforces Standards in Markdown
+- [Open Window Tab Context](https://marketplace.visualstudio.com/items?itemName=takkaO.open-window-tab-context): Adds a right click menu option to open tab in anew window
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense): Adds file path intellisense
+- [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets): Makes each corresponding pair of brackets share a unique color for readability
+- [RightClickFix](https://marketplace.visualstudio.com/items?itemName=codyschrank.rightclickfix): Adds Right click for New File/Folder
+- [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): Microsoft extension for Intellisense
+- [Workspace Expolorer](https://marketplace.visualstudio.com/items?itemName=tomsaunders-code.workspace-explorer):Makes multiple workspaces easier to navigate
+- [jsdoc](https://marketplace.visualstudio.com/items?itemName=lllllllqw.jsdoc&ssr=false#overview): Adds Japanese to Documentation
 
 ### Helpful Links
+
+- Setup Video [How to Debug FoundryVTT with VCCode](https://www.youtube.com/watch?v=CQ5UiDud60o)
 
 
 ## Jetbrains (Webstorm)
@@ -20,8 +40,6 @@ After a light poll the three most commonly used development enviornments by Foun
 
 ### Pros
 
-### Additional Resources
-
 ### Helpful Links
 
 ## Notepad++
@@ -30,8 +48,6 @@ After a light poll the three most commonly used development enviornments by Foun
 **Cost** Free
 
 ### Pros
-
-### Additional Resources
 
 ### Helpful Links
 
