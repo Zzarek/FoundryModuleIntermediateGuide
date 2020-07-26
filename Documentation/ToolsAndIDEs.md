@@ -6,19 +6,34 @@ After a light poll the three most commonly used development enviornments by Foun
 
 **Cost** Free
 
-## Jetbrains (Webstorm)
-**Where to get it**
-- _**Webstorm**_: [Needs Link]()
-- _**PHPStorm**_: [Needs Link]()
+### Pros
 
-**Cost**
-- _**Webstorm**_: Free with Open Source subscription, $59 Annual otherwise
-- _**PHPStorm**_: [Needs Link]()
+### Additional Resources
+
+### Helpful Links
+
+
+## Jetbrains (Webstorm)
+**Where to get it**: [Needs Link]()
+
+**Cost**: Free with Open Source subscription, $59 Annual otherwise
+
+### Pros
+
+### Additional Resources
+
+### Helpful Links
 
 ## Notepad++
-**Where to get it**: [Download from Microsoft](https://code.visualstudio.com/docs?dv=win)
+**Where to get it**: [Download Page](https://notepad-plus-plus.org/downloads/)
 
 **Cost** Free
+
+### Pros
+
+### Additional Resources
+
+### Helpful Links
 
 # Repositories
 
