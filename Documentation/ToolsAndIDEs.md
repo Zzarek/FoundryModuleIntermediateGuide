@@ -27,7 +27,6 @@ List of Extensions used in the Foundry Community
 - [RightClickFix](https://marketplace.visualstudio.com/items?itemName=codyschrank.rightclickfix): Adds Right click for New File/Folder
 - [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): Microsoft extension for Intellisense
 - [Workspace Expolorer](https://marketplace.visualstudio.com/items?itemName=tomsaunders-code.workspace-explorer):Makes multiple workspaces easier to navigate
-- [jsdoc](https://marketplace.visualstudio.com/items?itemName=lllllllqw.jsdoc&ssr=false#overview): Adds Japanese to Documentation
 
 ### Helpful Links
 
