@@ -33,7 +33,7 @@ List of Extensions used in the Foundry Community
 - Setup Video [How to Debug FoundryVTT with VCCode](https://www.youtube.com/watch?v=CQ5UiDud60o)
 
 
-## Jetbrains (Webstorm)
+## Jetbrains (Webstorm, Intellij IDEA, etc)
 **Where to get it**: [Needs Link]()
 
 **Cost**: Free with Open Source subscription, $59 Annual otherwise
@@ -44,6 +44,9 @@ List of Extensions used in the Foundry Community
 - Everything you need comes out of the box, no extensions required, thoughh if really needed plugins are still available
 
 ### Helpful Links
+
+### Notes
+**To Debug FoundryVTT with any Jetbrains IDE.** From the 'Run' menu, select 'Edit Configurations', click the '+' icon to add a debug configuration, choose 'Javascript Debug', set the URL to 'http://localhost:3000', choose which browser to use, click OK to save. Then, once you have started Foundry, start the debugger from the green 'bug' icon in the upper right corner of your IDE. The debugger will then start a browser that connects to foundry. All the usual debugger functionality then works from within the IDE.
 
 ## Notepad++
 **Where to get it**: [Download Page](https://notepad-plus-plus.org/downloads/)
