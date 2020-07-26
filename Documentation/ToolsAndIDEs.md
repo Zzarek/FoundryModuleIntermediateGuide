@@ -26,7 +26,7 @@ List of Extensions used in the Foundry Community
 - [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets): Makes each corresponding pair of brackets share a unique color for readability
 - [RightClickFix](https://marketplace.visualstudio.com/items?itemName=codyschrank.rightclickfix): Adds Right click for New File/Folder
 - [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): Microsoft extension for Intellisense
-- [Workspace Expolorer](https://marketplace.visualstudio.com/items?itemName=tomsaunders-code.workspace-explorer):Makes multiple workspaces easier to navigate
+- [Workspace Explorer](https://marketplace.visualstudio.com/items?itemName=tomsaunders-code.workspace-explorer):Makes multiple workspaces easier to navigate
 
 ### Helpful Links
 
